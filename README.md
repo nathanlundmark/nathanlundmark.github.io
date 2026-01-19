@@ -1,2 +1,1 @@
-# nathanlundmark.github.io
-Static landing page
+# I am Nathan

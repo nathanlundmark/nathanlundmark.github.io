@@ -2,8 +2,12 @@
     text-align: center;
 }
 
+header {
+    background-color: grey;
+}
+
 body {
-    background-color: lightslategrey;
+    background-color: darkslategrey;
 }
 
 footer {
